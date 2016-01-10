@@ -1,3 +1,3 @@
 # sandbox
 
-My sandbox for golang experimentation, mistake-making, and play.
+My sandbox for quick golang experimentation, mistake-making, and play.
