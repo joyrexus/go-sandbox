@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/joyrexus/slack"
+	"github.com/joyrexus/sandbox/slack"
 )
 
 func main() {
